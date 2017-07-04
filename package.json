@@ -1,0 +1,36 @@
+{
+  "name": "postcss-rgb",
+  "version": "1.0.0",
+  "description": "A postcss plugin to use rgb and rgba with hex values",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpadHegedus/postcss-rgb.git"
+  },
+  "keywords": [
+    "postcss",
+    "extends",
+    "plugin"
+  ],
+  "author": {
+    "name": "Arpad Hegedus",
+    "email": "hegedus.arpad@gmail.com",
+    "web": "http://arpadhegedus.com"
+  },
+  "maintainers": [
+    {
+      "name": "Arpad Hegedus",
+      "email": "hegedus.arpad@gmail.com",
+      "web": "http://arpadhegedus.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arpadHegedus/postcss-rgb/issues"
+  },
+  "homepage": "https://github.com/arpadHegedus/postcss-rgb#readme",
+  "dependencies": {
+    "postcss":"^6.0.5",
+    "postcss-plugin-utilities":"^2.0.0"
+  }
+}
